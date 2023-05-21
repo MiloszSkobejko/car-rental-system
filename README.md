@@ -3,6 +3,14 @@ A comprehensive car rental system SQLlite database designed to manage customer i
 rental history, reservations, and employee data. This repository provides a structured and efficient solution 
 for building a car rental application.
 
+## Intruduction
+This was a project for database subject at my college. It is a SQL database with examples of SQL queries.
+This databse contains tables for car rental system. Customers can reservate and rent cars. I also included 
+ERD diagram in the files
+
+## Status
+Repository is all finished and won't be further developed.
+
 ## SQL Queries
 #### I've prepared some quereies to check if database is functioning correctly:
 
